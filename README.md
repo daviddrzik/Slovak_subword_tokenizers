@@ -25,10 +25,10 @@ The `SKMT` tokenizer incorporates Slovak morphological information into the BPE 
 
 ## Usage
 
-Detailed installation and usage instructions for both tokenizers are provided in their respective directories:
+Detailed usage instructions for both tokenizers are provided in their respective directories:
 
-- [pureBPE](./pureBPE)
-- [SKMT](./SKMT)
+- [pureBPE](./pureBPE/tokenization_demo.ipynb)
+- [SKMT](./SKMT/tokenization_demo.ipynb)
 
 ## License
 
