@@ -22,14 +22,8 @@ The `SKMT` tokenizer incorporates Slovak morphological information into the BPE 
   - Integrates Slovak root morphemes
   - Enhanced lexical preservation
 
-## Benefits
 
-- Improved handling of out-of-vocabulary words
-- Reduced vocabulary size
-- Better performance in NLP tasks such as sentiment classification
-- Higher root integrity in tokenized outputs
-
-## Installation and Usage
+## Usage
 
 Detailed installation and usage instructions for both tokenizers are provided in their respective directories:
 
