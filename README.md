@@ -39,3 +39,26 @@ This project is licensed under the Apache-2.0 license. See the [LICENSE](./LICEN
 For any questions or further information, please contact:
 - Dávid Držík, Faculty of Natural Science and Informatics, Constantine the Philosopher University in Nitra: [david.drzik@ukf.sk](mailto:david.drzik@ukf.sk)
 - František Forgáč, Faculty of Natural Science and Informatics, Constantine the Philosopher University in Nitra
+
+
+## Citation
+
+If you find our model or paper useful, please consider citing our work:
+
+### Article:
+Držík, D., & Forgac, F. (2024). Slovak morphological tokenizer using the Byte-Pair Encoding algorithm. PeerJ Computer Science, 10, e2465. https://doi.org/10.7717/peerj-cs.2465
+
+### BibTeX Entry:
+```bib
+@article{drzik2024slovak,
+  title={Slovak morphological tokenizer using the Byte-Pair Encoding algorithm},
+  author={Držík, Dávid and Forgac, František},
+  journal={PeerJ Computer Science},
+  volume={10},
+  pages={e2465},
+  year={2024},
+  month={11},
+  issn={2376-5992},
+  doi={10.7717/peerj-cs.2465}
+}
+```
